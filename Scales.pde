@@ -21,7 +21,6 @@ void draw() {
       shift = false;
     }
   }
-  System.out.println(mouseX + " " + mouseY);
 }
 
 void scale(int x, int y) {
