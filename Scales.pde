@@ -65,5 +65,5 @@ void scale(int x, int y) {
   //vertex: similar to curveVertex but with straight lines
   //double first and last statements in curveVertex
 
-  delay(1);
+  //delay(1);
 }
