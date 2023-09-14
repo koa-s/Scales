@@ -66,5 +66,4 @@ void scale(int x, int y) {
   //double first and last statements in curveVertex
 
   //delay(1);
-sleep(1);
 }
